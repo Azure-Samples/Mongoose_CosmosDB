@@ -1,0 +1,12 @@
+{
+  "name": "mongoose-cosmosdb",
+  "version": "1.0.0",
+  "description": "This is a project to help get started with Mongoose for CosmosDB",
+  "main": "index.js",
+  "author": "Romit Girdhar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mongoose": "^4.11.9"
+  }
+}
