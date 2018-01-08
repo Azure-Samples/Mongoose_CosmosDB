@@ -13,4 +13,4 @@ Azure Cosmos DB is Microsoft's globally distributed multi-model database service
 
 ### Quickstart
 
-For a quickstart, please refer to the following article: [Using the Mongoose framework with Azure Cosmos DB]()
+For a quickstart, please refer to the following article: [Using the Mongoose framework with Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-mongoose)
