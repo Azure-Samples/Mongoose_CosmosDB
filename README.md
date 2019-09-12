@@ -1,7 +1,11 @@
 ---
-services: cosmos-db
-platforms: mongoose
-author: rogirdh
+page_type: sample
+languages:
+- javascript
+products:
+- azure
+description: "This tutorial demonstrates how to use the Mongoose Framework when storing data in Azure Cosmos DB for MongoDB API account. For those of you unfamiliar,"
+urlFragment: Mongoose_CosmosDB
 ---
 
 # Developing a Mongoose Framework app using Azure Cosmos DB for MongoDB API
